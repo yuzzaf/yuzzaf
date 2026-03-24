@@ -10,7 +10,7 @@
 
 * 💻 Fullstack Developer with focus on Backend & Cloud
 * ☁️ Experienced in deploying apps using AWS, Firebase, and Vercel
-* 🧠 Background in Machine Learning (Bangkit Program)
+* 🧠 Background in Cloud Computing (Bangkit Program)
 * 🌱 Currently learning: System Design & Cloud Architecture
 * 🎯 Goal: Become Cloud Engineer / Backend Specialist
 
