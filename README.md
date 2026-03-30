@@ -109,6 +109,15 @@ Email: `admin@gmail.com` | Password: `123456`
 <div align="center">
 
 <!--START_SECTION:waka-->
+
+```txt
+JavaScript   8 hrs 54 mins         ███████████████████░░░░░░   76.60 %
+Bash         53 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
+Markdown     27 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
+JSON         24 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
+YAML         22 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+```
+
 <!--END_SECTION:waka-->
 
 <br/>
