@@ -103,8 +103,7 @@ Password: `123456`
 
 ## ⏱️ Weekly Coding Stats
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+[![wakatime](https://wakatime.com/badge/user/82c57b0a-011d-4ffc-ae0f-7bb633da9426.svg)](https://wakatime.com/@82c57b0a-011d-4ffc-ae0f-7bb633da9426)
 
 ---
 
