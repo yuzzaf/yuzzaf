@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there!%20I'm%20Yuzzaf%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cloud%20Engineer%20%7C%20Backend%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there!%20I'm%20Yuzzaf%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=30&desc=Cloud%20Engineer%20%7C%20Backend%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 </div>
 
@@ -8,11 +8,11 @@
 
 ## 🚀 About Me
 
-💻 Fullstack Developer with strong focus on **Backend & Cloud Engineering**  
-☁️ Experienced in building & deploying scalable applications using **AWS, Firebase, and Vercel**  
-🧠 Background in **Cloud Computing (Bangkit Graduate)**  
-⚙️ Interested in **System Design, API Architecture, and Cloud Infrastructure**  
-🎯 Target Role: **Cloud Engineer / Backend Engineer**
+💻 Backend-focused Developer with strong interest in **Cloud Engineering**  
+☁️ Experienced in deploying scalable apps using **AWS, Firebase, and Vercel**  
+🧠 Graduate of **Bangkit Cloud Computing Program**  
+⚙️ Passionate about **System Design, API Architecture, and Cloud Infrastructure**  
+🎯 Currently aiming for **Cloud Engineer / Backend Engineer roles**
 
 ---
 
@@ -23,17 +23,25 @@
 🚀 **Main Portfolio**  
 👉 https://app.muhammadyuzzaf.com  
 
-📱 **Client Project**  
+📱 **Client App**  
 👉 https://first-client-public-gc02.web.app  
 
-🛠️ **CMS Demo**  
+🛠️ **CMS Dashboard**  
 👉 https://first-cms-gc02.web.app  
 
-🔐 Demo Account  
-Email: `admin@gmail.com`  
-Password: `123456`
+🔐 CMS Demo Account  
+Email: `admin@gmail.com` | Password: `123456`
 
 </div>
+
+---
+
+## ☁️ Cloud Experience
+
+- 🚀 Deploy backend using **AWS EC2 + Nginx**
+- 🔐 Setup **HTTPS & custom domain**
+- 📦 Build REST API with production-ready setup
+- ⚙️ Experience with **Firebase & serverless deployment**
 
 ---
 
@@ -41,29 +49,24 @@ Password: `123456`
 
 <div align="center">
 
-### Languages
+### ⚡ Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Frontend
+### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### Backend & Database
+### ⚙️ Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Cloud & Platforms
+### ☁️ Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -74,16 +77,16 @@ Password: `123456`
 ### 🍎 Nutrition App (ML Based)
 - Food detection using Machine Learning  
 - Integrated with backend API  
-- Focus on UI/UX + ML integration  
+- Focus on UI/UX & ML integration  
 
 ### ☁️ AWS Deployment Project
-- Deploy backend using AWS EC2 + Nginx  
-- Domain + HTTPS setup  
-- Production-ready backend deployment  
+- Backend deployment with **EC2 + Nginx**
+- Domain + HTTPS configuration  
+- Production-ready environment  
 
 ---
 
-## 📊 GitHub & Coding Activity
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -101,9 +104,18 @@ Password: `123456`
 
 ---
 
-## ⏱️ Weekly Coding Stats
+## 📊 Development Activity
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<br/>
 
 [![wakatime](https://wakatime.com/badge/user/82c57b0a-011d-4ffc-ae0f-7bb633da9426.svg)](https://wakatime.com/@82c57b0a-011d-4ffc-ae0f-7bb633da9426)
+
+</div>
 
 ---
 
