@@ -90,9 +90,9 @@ Email: `admin@gmail.com` | Password: `123456`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yuzzaf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuzzaf&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yuzzaf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuzzaf&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
