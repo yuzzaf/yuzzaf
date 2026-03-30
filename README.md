@@ -87,12 +87,11 @@ Email: `admin@gmail.com` | Password: `123456`
 ---
 
 ## 📊 GitHub Analytics
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yuzzaf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" height="170"/>
+<img src="https://gh-readme-profile.vercel.app/api?username=yuzzaf&theme=tokyonight" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuzzaf&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170"/>
+<img src="https://gh-readme-profile.vercel.app/api/top-langs?username=yuzzaf&theme=tokyonight&layout=compact" height="170"/>
 
 </div>
 
