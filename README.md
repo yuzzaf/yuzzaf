@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there!%20I'm%20Yuzzaf%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cloud%20Enthusiast%20%7C%20Fullstack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there!%20I'm%20Yuzzaf%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cloud%20Engineer%20%7C%20Backend%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 </div>
 
 ---
 
-## 🙋‍♂️ About Me
+## 🚀 About Me
 
-* 💻 Fullstack Developer with focus on Backend & Cloud
-* ☁️ Experienced in deploying apps using AWS, Firebase, and Vercel
-* 🧠 Background in Cloud Computing (Bangkit Program)
-* 🌱 Currently learning: System Design & Cloud Architecture
-* 🎯 Goal: Become Cloud Engineer / Backend Specialist
+💻 Fullstack Developer with strong focus on **Backend & Cloud Engineering**  
+☁️ Experienced in building & deploying scalable applications using **AWS, Firebase, and Vercel**  
+🧠 Background in **Cloud Computing (Bangkit Graduate)**  
+⚙️ Interested in **System Design, API Architecture, and Cloud Infrastructure**  
+🎯 Target Role: **Cloud Engineer / Backend Engineer**
 
 ---
 
@@ -20,17 +20,17 @@
 
 <div align="center">
 
-🚀 **Main Portfolio**
-👉 https://app.muhammadyuzzaf.com
+🚀 **Main Portfolio**  
+👉 https://app.muhammadyuzzaf.com  
 
-📱 **Client Project**
-👉 https://first-client-public-gc02.web.app
+📱 **Client Project**  
+👉 https://first-client-public-gc02.web.app  
 
-🛠️ **CMS Demo**
-👉 https://first-cms-gc02.web.app
+🛠️ **CMS Demo**  
+👉 https://first-cms-gc02.web.app  
 
-🔐 Demo Account:
-Email: `admin@gmail.com`
+🔐 Demo Account  
+Email: `admin@gmail.com`  
 Password: `123456`
 
 </div>
@@ -42,33 +42,28 @@ Password: `123456`
 <div align="center">
 
 ### Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Backend & Database
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Cloud & Platforms
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -77,20 +72,18 @@ Password: `123456`
 ## 📌 Featured Projects
 
 ### 🍎 Nutrition App (ML Based)
-
-* Mobile app with food detection using Machine Learning
-* Integrated with backend API
-* Focus on UI/UX + ML integration
+- Food detection using Machine Learning  
+- Integrated with backend API  
+- Focus on UI/UX + ML integration  
 
 ### ☁️ AWS Deployment Project
-
-* Deploy backend using AWS EC2 + Nginx
-* Domain + HTTPS setup
-* Production-ready backend deployment
+- Deploy backend using AWS EC2 + Nginx  
+- Domain + HTTPS setup  
+- Production-ready backend deployment  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub & Coding Activity
 
 <div align="center">
 
@@ -108,16 +101,19 @@ Password: `123456`
 
 ---
 
+## ⏱️ Weekly Coding Stats
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+---
 
 ## 🌐 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/muhammadyuzzaf)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/yuzzaf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadyuzzaf)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yuzzaf)
 
 </div>
 
