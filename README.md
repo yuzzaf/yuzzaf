@@ -93,6 +93,8 @@ Email: `admin@gmail.com` | Password: `123456`
 
 <img src="https://gh-readme-profile.vercel.app/api/top-langs?username=yuzzaf&theme=tokyonight&layout=compact" height="170"/>
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuzzaf&theme=tokyonight"/>
+
 </div>
 
 <div align="center">
