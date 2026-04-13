@@ -12,7 +12,7 @@
 ☁️ Experienced in deploying scalable apps using **AWS, Firebase, and Vercel**  
 🧠 Graduate of **Bangkit Cloud Computing Program**  
 ⚙️ Passionate about **System Design, API Architecture, and Cloud Infrastructure**  
-🎯 Currently aiming for **Cloud Engineer / Backend Engineer roles**
+🎯 Currently aiming for **Fullstack Developer roles**
 
 ---
 
