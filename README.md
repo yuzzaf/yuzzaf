@@ -111,11 +111,11 @@ Email: `admin@gmail.com` | Password: `123456`
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   11 hrs 16 mins        ███████████████████░░░░░░   75.90 %
-JavaScript   2 hrs 28 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.69 %
-Markdown     33 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
-Bash         19 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
-Text         7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+TypeScript   5 hrs 10 mins         ██████████████▓░░░░░░░░░░   59.20 %
+JavaScript   2 hrs 39 mins         ███████▓░░░░░░░░░░░░░░░░░   30.32 %
+Markdown     33 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
+Bash         12 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+Text         7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
 ```
 
 <!--END_SECTION:waka-->
