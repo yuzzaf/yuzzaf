@@ -99,15 +99,101 @@ Demo credentials available **on request**.
 
 ## 📌 Featured Projects
 
-### 🍎 Nutrition App (ML Based)
-- Food detection using Machine Learning  
-- Integrated with backend API  
-- Focus on UI/UX & ML integration  
+<div align="center">
 
-### ☁️ AWS Deployment Project
-- Backend deployment with **EC2 + Nginx**
-- Domain + HTTPS configuration  
-- Production-ready environment  
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏠 NexaHome — Smart Home Management</h3>
+      <p>Comprehensive smart home management system for seamless device control & monitoring.</p>
+      <p>
+        <a href="https://github.com/NexaHome/nexahome-app">Repo</a>
+        • <a href="https://github.com/NexaHome/nexahome-app#readme">Docs</a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+      </p>
+      <ul>
+        <li>Mobile app: Expo + React Native</li>
+        <li>Backend: NestJS (TS) + Apollo GraphQL</li>
+        <li>Firmware: Arduino/ESP (.ino)</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛒 E-Commerce Platform — Client & Server</h3>
+      <p>Fullstack e-commerce with realtime updates, payments, uploads, email service, and testing.</p>
+      <p>
+        <a href="https://github.com/gp-hck-093/client-e-commerce">Client Repo</a>
+        • <a href="https://github.com/gp-hck-093/server-e-commerce">Server Repo</a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white"/>
+      </p>
+      <ul>
+        <li>Auth (JWT), validation (Zod), rate limiting</li>
+        <li>Payments: Midtrans</li>
+        <li>Tests: Jest + Supertest</li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ IP — Fullstack App</h3>
+      <p>SPA client + Express server with realtime communication and modern frontend tooling.</p>
+      <p>
+        <a href="https://github.com/yuzzaf/ip-yuzzaf">Repo</a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white"/>
+      </p>
+      <ul>
+        <li>Client: React + Vite</li>
+        <li>Server: Express + PostgreSQL (Sequelize)</li>
+        <li>Realtime: Socket.IO</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧾 BeliNow — EJS Web App</h3>
+      <p>Server-rendered web app using Express + EJS with PostgreSQL (Sequelize) and sessions.</p>
+      <p>
+        <a href="https://github.com/yuzzaf/BeliNow">Repo</a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/EJS-A91E50?style=flat&logo=ejs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white"/>
+      </p>
+      <ul>
+        <li>SSR pages with EJS templates</li>
+        <li>Session-based auth</li>
+        <li>Payments: Stripe</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
