@@ -20,17 +20,31 @@
 
 <div align="center">
 
-🚀 **Main Portfolio**  
-👉 https://app.muhammadyuzzaf.com  
+🔗 **Portfolio Website**  
+https://app.muhammadyuzzaf.com  
 
-📱 **Client App**  
-👉 https://first-client-public-gc02.web.app  
+📱 **Live Demo (Client App)**  
+https://first-client-public-gc02.web.app  
 
-🛠️ **CMS Dashboard**  
-👉 https://first-cms-gc02.web.app  
+🛠️ **Live Demo (CMS Dashboard)**  
+https://first-cms-gc02.web.app  
 
-🔐 **CMS Demo Account**  
-Email: `admin@gmail.com` | Password: `123456`
+</div>
+
+> Note: Demo credentials are available **on request**.
+
+---
+
+## 📌 Pinned Projects
+
+<div align="center">
+
+| Project | Stack | Links |
+|---|---|---|
+| **NexaHome – Smart Home Management** | Expo (React Native) • NestJS • GraphQL • MongoDB • Redis • Arduino/ESP | Repo: https://github.com/NexaHome/nexahome-app |
+| **IP – Fullstack App (Client + Server)** | React (Vite) • Tailwind • Redux • Express • PostgreSQL (Sequelize) • Socket.IO | Repo: https://github.com/yuzzaf/ip-yuzzaf |
+| **BeliNow – EJS Web App** | Express • EJS • PostgreSQL (Sequelize) • Sessions | Repo: https://github.com/yuzzaf/BeliNow |
+| **Server E-Commerce API** | Express • PostgreSQL (Sequelize) • Socket.IO • Cloudinary • AI Integrations | Repo: https://github.com/gp-hck-093/server-e-commerce |
 
 </div>
 
@@ -92,21 +106,6 @@ Email: `admin@gmail.com` | Password: `123456`
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
 </div>
-
----
-
-## 📌 Featured Projects
-
-### 🏠 NexaHome (Smart Home App)
-- **Mobile:** Expo + React Native
-- **Backend:** NestJS (TypeScript) + GraphQL (Apollo)
-- **Database:** MongoDB + Redis
-- **Firmware:** Arduino/ESP (.ino)
-
-### 🛒 E-Commerce Server
-- Express.js REST API + PostgreSQL (Sequelize)
-- Realtime updates with Socket.IO
-- Integrations: Cloudinary, Midtrans/Stripe (project-based)
 
 ---
 
