@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there!%20I'm%20Yuzzaf%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=30&desc=Fullstack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there!%20I'm%20Yuzzaf%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=30&desc=Fullstack%20Developer%20(Backend-leaning)&descAlignY=55&descSize=18" width="100%"/>
 
 </div>
 
@@ -8,11 +8,11 @@
 
 ## 🚀 About Me
 
-💻 Backend-focused Developer with strong interest in **Cloud Engineering**  
-☁️ Experienced in deploying scalable apps using **AWS, Firebase, and Vercel**  
+💻 Backend-focused developer with strong interest in **Cloud Engineering** and **System Design**  
+☁️ Hands-on deploying apps using **AWS, Firebase, and Vercel**  
 🧠 Graduate of **Bangkit Cloud Computing Program**  
-⚙️ Passionate about **System Design, API Architecture, and Cloud Infrastructure**  
-🎯 Currently aiming for **Fullstack Developer roles**
+⚙️ Interested in **API Architecture, Cloud Infrastructure, and Scalable Systems**  
+🎯 Currently aiming for **Fullstack Developer** roles
 
 ---
 
@@ -29,7 +29,7 @@
 🛠️ **CMS Dashboard**  
 👉 https://first-cms-gc02.web.app  
 
-🔐 CMS Demo Account  
+🔐 **CMS Demo Account**  
 Demo credentials available **on request**.
 
 </div>
@@ -94,6 +94,25 @@ Demo credentials available **on request**.
 ![Android%20Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 </div>
+
+---
+
+## 📦 Open Source (NPM)
+
+### veloshift.js
+
+[![npm](https://img.shields.io/npm/v/veloshift.js?style=flat-square)](https://www.npmjs.com/package/veloshift.js)
+[![npm downloads](https://img.shields.io/npm/dm/veloshift.js?style=flat-square)](https://www.npmjs.com/package/veloshift.js)
+[![TypeScript](https://img.shields.io/badge/TypeScript-100%25-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/yuzzaf/veloshift)
+
+A lightweight utility package written in TypeScript and published to npm.
+
+- **npm:** https://www.npmjs.com/package/veloshift.js
+- **repo:** https://github.com/yuzzaf/veloshift
+
+```bash
+npm i veloshift.js
+```
 
 ---
 
