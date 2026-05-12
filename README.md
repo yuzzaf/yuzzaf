@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there!%20I'm%20Yuzzaf%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=30&desc=Fullstack%20Developer%20(Backend-leaning)&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there!%20I'm%20Yuzzaf%20%F0%9F%91%8B&fontSize=42&fontColor=fff"/>
 
 </div>
 
@@ -21,7 +21,7 @@
 <div align="center">
 
 🚀 **Main Portfolio**  
-👉 https://app.muhammadyuzzaf.com  
+👉 https://portfolio.muhammadyuzzaf.com/  
 
 📱 **Client App**  
 👉 https://first-client-public-gc02.web.app  
@@ -170,24 +170,20 @@ npm i veloshift.js
 
   <tr>
     <td width="50%" valign="top">
-      <h3>⚡ IP — Fullstack App</h3>
-      <p>SPA client + Express server with realtime communication and modern frontend tooling.</p>
+      <h3>🥗 Dietary</h3>
+      <p>Dietary is an app/repo for managing, tracking, and analyzing nutritional intake and meal plans.</p>
       <p>
-        <a href="https://github.com/yuzzaf/ip-yuzzaf">Repo</a>
+        <a href="https://github.com/yuzzaf/Dietary">Repo</a>
       </p>
       <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white"/>
+        <!-- You can update icons/tech here to match Dietary, or keep it general -->
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
       </p>
       <ul>
-        <li>Client: React + Vite</li>
-        <li>Server: Express + PostgreSQL (Sequelize)</li>
-        <li>Realtime: Socket.IO</li>
+        <li>Tracking and analyzing daily nutrition</li>
+        <li>Meal and ingredient database</li>
+        <li>User-centered analytics</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -208,6 +204,14 @@ npm i veloshift.js
         <li>Session-based auth</li>
         <li>Payments: Stripe</li>
       </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <b>More on GitHub:</b>
+      <a href="https://github.com/yuzzaf/threaden">@yuzzaf/threaden</a>
+      &nbsp;|&nbsp;
+      <a href="https://github.com/yuzzaf/Figurin">@yuzzaf/Figurin</a>
     </td>
   </tr>
 </table>
@@ -278,3 +282,4 @@ CSS           16 mins               █░░░░░░░░░░░░░�
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yuzzaf&label=Profile%20Views&color=blueviolet&style=flat-square"/>
 </div>
+
