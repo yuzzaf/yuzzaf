@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there!%20I'm%20Yuzzaf%20%F0%9F%91%8B%20%7C%20Software%20Developer%20%7C%20Fullstack%20Developer&fontSize=34&fontColor=fff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there!%20I'm%20Yuzzaf%20%F0%9F%91%8B&fontSize=42&fontColor=fff"/>
+
+<br/>
+<b>| Software Developer | Fullstack Developer</b>
 
 </div>
 
