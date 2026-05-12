@@ -21,16 +21,7 @@
 <div align="center">
 
 🚀 **Main Portfolio**  
-👉 https://portfolio.muhammadyuzzaf.com/  
-
-📱 **Client App**  
-👉 https://first-client-public-gc02.web.app  
-
-🛠️ **CMS Dashboard**  
-👉 https://first-cms-gc02.web.app  
-
-🔐 **CMS Demo Account**  
-Demo credentials available **on request**.
+👉 https://portfolio.muhammadyuzzaf.com/
 
 </div>
 
@@ -167,7 +158,6 @@ npm i veloshift.js
       </ul>
     </td>
   </tr>
-
   <tr>
     <td width="50%" valign="top">
       <h3>🥗 Dietary</h3>
@@ -176,7 +166,6 @@ npm i veloshift.js
         <a href="https://github.com/yuzzaf/Dietary">Repo</a>
       </p>
       <p>
-        <!-- You can update icons/tech here to match Dietary, or keep it general -->
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
       </p>
@@ -207,11 +196,39 @@ npm i veloshift.js
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <b>More on GitHub:</b>
-      <a href="https://github.com/yuzzaf/threaden">@yuzzaf/threaden</a>
-      &nbsp;|&nbsp;
-      <a href="https://github.com/yuzzaf/Figurin">@yuzzaf/Figurin</a>
+    <td width="50%" valign="top">
+      <h3>🧵 Threaden</h3>
+      <p>Threaden is a community-based discussion platform inspired by Twitter threads, supporting rich threaded conversations and topic channels.</p>
+      <p>
+        <a href="https://github.com/yuzzaf/threaden">Repo</a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+      </p>
+      <ul>
+        <li>Fullstack app: React + TypeScript + Node.js</li>
+        <li>Support for threaded and channel-based discussions</li>
+        <li>Community-driven moderation features</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🖼️ Figurin</h3>
+      <p>Figurin is a collection and gallery application, ideal for organizing, previewing, and managing valuable or themed collections with a visually engaging interface.</p>
+      <p>
+        <a href="https://github.com/yuzzaf/Figurin">Repo</a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
+      </p>
+      <ul>
+        <li>Photo and collection gallery</li>
+        <li>Search and filter collection items</li>
+        <li>Modern, clean interface</li>
+      </ul>
     </td>
   </tr>
 </table>
