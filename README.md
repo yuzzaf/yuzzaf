@@ -265,11 +265,7 @@ npm i veloshift.js
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   37 mins               ███████████████████▓░░░░░   79.24 %
-Markdown     8 mins                ████▓░░░░░░░░░░░░░░░░░░░░   18.88 %
-C#           0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-Binary       0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
